@@ -4,4 +4,5 @@ Please follow these steps: <br>
 *Extract the file content.<br>
 *Go to the Manapy folder (the path in which the setup.py file exists) and open a terminal in that folder.<br>
 *Run this commode line in your terminal, please don't forget the point at the end :  python3 -m pip install --user -e . <br>
-If you encounter any issues. Contact me :) <br>
+If you encounter any issues. Contact me or check my professor's GitHub @imadki who developed this library <br>
+link : https://github.com/imadki/manapy
